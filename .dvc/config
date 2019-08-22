@@ -1,5 +1,6 @@
 
 ['remote "s3remote"']
 url = s3://dvcdataaltran/sourcedata/
+credentialpath = rootkey.csv
 [core]
 remote = s3remote
