@@ -7,6 +7,7 @@ import conf
 try: import cPickle as pickle   # python2
 except: import pickle           # python3
 
+
 np.set_printoptions(suppress=True)
 
 import sys
