@@ -10,6 +10,7 @@ model_file = conf.model
 test_matrix_file = conf.test_matrix
 metrics_file = 'data/eval.txt'
 
+
 with open(model_file, 'rb') as fd:
     model = pickle.load(fd)
 
