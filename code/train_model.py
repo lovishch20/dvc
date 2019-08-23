@@ -5,6 +5,7 @@ import conf
 try: import cPickle as pickle   # python2
 except: import pickle           # python3
 
+    
 if len(sys.argv) != 2:
     sys.stderr.write('Arguments error. Usage:\n')
     sys.stderr.write('\tpython train_model.py INPUT_MATRIX_FILE SEED OUTPUT_MODEL_FILE\n')
