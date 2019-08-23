@@ -1,7 +1,7 @@
-md5: 839e21fab946f5f6e881647f9a0b9020
+md5: f763d6455f8608cce57479498e62598c
 wdir: ..
 outs:
-- md5: d62856c2511c9fc2847fc8e9b1247e26
+- md5: 416cbdd7de4fc810685c32e73d34746d
   path: data/Posts.xml.zip
   cache: true
   metric: false
